@@ -29,7 +29,7 @@ twitter_username: none
 github_username:  benjiaa
 
 # Build settings
-theme: pixyll
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
 
