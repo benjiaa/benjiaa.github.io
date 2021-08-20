@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  benjiaa
 
 # Build settings
-theme: minimal
+theme: pixyll
 plugins:
   - jekyll-feed
 
