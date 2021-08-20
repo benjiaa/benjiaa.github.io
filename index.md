@@ -7,7 +7,7 @@ i'm a programmer/maker/artist excited about machine learning, rapid prototyping 
 ## ![me](../assets/me.jpg)
 
 
-## [resume](../assets/resume).
+## [resume](../assets/resume)
 ## [projects](./projects)
 ## [blog](./blog)
 
