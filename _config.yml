@@ -22,6 +22,8 @@ title: hi, i'm benji.
 email: contactbandrews@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  resume, portfolio, and personal website of benji a.
+ <img src="../assets/me.jpg" alt="me! (circa january 2021)" width="400"/>
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
