@@ -9,7 +9,8 @@ i've worked on projects for school, work, and just for fun. here are the hits.
 
 <p align="center">
   <img src="../assets/ml-cv-projects.png" alt="ml/cv projects"/>
-  ## machine learning / computer vision
+  
+  <h2 align="machine learning / computer vision"></h2>
 </p>
 
 
