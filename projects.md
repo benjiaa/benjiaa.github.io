@@ -4,7 +4,7 @@ title: "projects"
 permalink: /projects/
 ---
 
-# i've worked on projects for school, work, and just for fun. here are the hits.
+## i've worked on projects for school, work, and just for fun. here are the hits.
 
 
 <p align="center">
@@ -16,9 +16,8 @@ permalink: /projects/
 
 <p align="center">
   <img src="../assets/insite-logo.png" alt="Colby INSITE Lab Projects"/>
+<h2> INSITE lab projects </h2>
 </p>
-##     INSITE lab projects
-
 
 <p align="center">
   <img src="../assets/maker-projects.png" alt="physical making projects"/>
