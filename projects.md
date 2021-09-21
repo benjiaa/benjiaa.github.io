@@ -11,12 +11,13 @@ permalink: /projects/
   <img src="../assets/ml-cv-projects.png" alt="ml/cv projects"/>
 </p>
 ## machine learning / computer vision projects
+<pre>
 
 
-
+</pre>
 <p align="center">
-  <img src="../assets/insite-logo.png" alt="Colby INSITE Lab Projects"/>
-<h2> INSITE lab projects </h2>
+  <img src="../assets/insite-logo.png" alt="Colby INSITE Lab Proects"/>
+  <h2> INSITE lab projects </h2>
 </p>
 
 <p align="center">
