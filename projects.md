@@ -9,7 +9,7 @@ i've worked on projects for school, work, and just for fun. here are the hits.
 
 <p align="center">
   <img src="../assets/ml-cv-projects.png" alt="ml/cv projects"/>
-  <h1 align="center" text="machine learning / computer vision"></h1>
+  <h1>machine learning / computer vision"</h1>
 </p>
 
 
