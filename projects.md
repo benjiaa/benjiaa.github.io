@@ -14,7 +14,7 @@ i've worked on projects for school, work, and just for fun. here are the hits.
 </p>
 
 <p align="center">
-  <img src="../assets/insite-logo.png" alt="Colby INSITE Lab Proects"/>
+  <img src="../assets/insite-logo.png" alt="Colby INSITE Lab Projects"/>
   <a href="https://benjiaa.github.io/insite">INSITE lab projects</a>
 </p>
 
