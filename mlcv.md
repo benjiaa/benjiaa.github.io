@@ -30,7 +30,7 @@ In project 3, we implemented a Convolutional Neural Network (CNN). CNNs represen
 After the arduous process of the by-hand implementation of the CNN, we were able to come back and re-try the STL-10 classification dataset, achieving an accuracy of ~50%! Advancing through this task over the course of projects was satisfying as well as educational.
 
 ### Example of a “convolved” Image (above original size)
-![convolved][../assets/convolved.png]
+![convolved](../assets/convolved.png)
 
 ### Graph of training over time for the CNN
 ![train2](../assets/train_2.png)
@@ -39,6 +39,6 @@ After the arduous process of the by-hand implementation of the CNN, we were able
 Finally, after manually implementing these networks, we learned to use high-level Tensorflow functions to build a CNN and attempt classification on a new dataset. Next, utilizing transfer learning, we used a pre-trained neural network (VGG16) to project the receptive fields of specific filters from convolution and and create trippy “dream” effects.  An example of the input and output images is below.
 
 ### CNN 'Dreaming' Over a Mountaintop
-<img src="../assets/mountain_3x.png" width="231" height="231">
+<img src="../assets/mountain_3x.png" width="225" height="231">
 ![mdream](../assets/mountain_dream.png)
 
