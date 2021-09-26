@@ -6,7 +6,7 @@ permalink: /making/
 
 # 3D Scanned Hands: Making and Collaboration
 
-![](../assets/hands.png)
+![hands!](../assets/hands.png)
 
 During my time at Colby, I’ve had the opportunity to work in the Muleworks Innovation lab. Muleworks is a makerspace where students, faculty/staff, and members of the local community can come to make stuff for class, research, and (most importantly) for fun! I’ve picked up so many new skills and worked with so many creative and passionate people there, and this particular project demonstrates the collaborative environment of the space so well.
 
