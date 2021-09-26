@@ -1,5 +1,8 @@
 # My Journey Through Neural Networks: A CS343 Retrospective
-*CS343 Was taught in Python. With the exception of the final project, we implemented neural net architectures from scratch barring the use of NumPy for array calculations. The final project involved higher-level functions from Tensorflow to construct models we had already coded by hand. All source files can be found (here)[]*
+
+*CS343 Was taught in Python. With the exception of the final project, we implemented neural net architectures from scratch barring the use of NumPy for array calculations. The final project involved higher-level functions from Tensorflow to construct models we had already coded by hand. All source files can be found [here](https://github.com/benjiaa/benjiaa-neural-networks)*
+
+
 Coming back to Colby in the Fall of 2020, I didn’t know what to expect. Classes were online, everyone was scared of COVID, and nobody knew how the year was going to go. If someone had told me then that one of my classes would come to drive my academic interests for the next year and a half (and probably much longer), I am not sure I’d have believed them! Regardless, here is my roundup of the four projects I did in CS343: Neural Networks with Professor Oliver W. Layton. 
 
 ## [Project 1:  Single Layer Networks for Binary Classification and Regression](https://github.com/benjiaa/benjiaa-neural-networks/tree/main/project1)
