@@ -20,8 +20,8 @@ To highlight the machine’s strengths, I thought it would be pretty cool to get
 Special thanks to Nicole Petherbridge and Sabina Garibovic for their patience in 3D hand modelling, as well as Jon Curtis for his blender prowess. 
 
 
-![extra hand 1](../assets/hand1.png)
+![extra hand 1](../assets/hand1.jpg)
 
-![extra hand 2](../assets/hand2.png)
+![extra hand 2](../assets/hand2.jpg)
 
-![extra hand 3](../assets/hand3.png)
+![extra hand 3](../assets/hand3.jpg)
