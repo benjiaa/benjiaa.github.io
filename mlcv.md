@@ -25,7 +25,7 @@ Another key concept learned in this project is a grid search. Because neural net
 ### Class Visualizations
 ![class_vis](../assets/class_vis.png)
 
-## [Project 3: Convolution and Pooling](https://github.com/benjiaa/benjiaa-neural-networks/tree/main/project3)https://github.com/benjiaa/benjiaa-neural-networks/tree/main/project1
+## [Project 3: Convolution and Pooling](https://github.com/benjiaa/benjiaa-neural-networks/tree/main/project3)
 In project 3, we implemented a Convolutional Neural Network (CNN). CNNs represented a significant breakthrough at the time of their development, and are notable for their high performance in computer vision tasks. CNNs are typically made of of stacks of convolution and pooling layers that sequentially simplify images throughout the network, allowing the net to more easily recognize important, general patterns without being computationally heavy.
 After the arduous process of the by-hand implementation of the CNN, we were able to come back and re-try the STL-10 classification dataset, achieving an accuracy of ~50%! Advancing through this task over the course of projects was satisfying as well as educational.
 
