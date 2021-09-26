@@ -39,6 +39,6 @@ After the arduous process of the by-hand implementation of the CNN, we were able
 Finally, after manually implementing these networks, we learned to use high-level Tensorflow functions to build a CNN and attempt classification on a new dataset. Next, utilizing transfer learning, we used a pre-trained neural network (VGG16) to project the receptive fields of specific filters from convolution and and create trippy “dream” effects.  An example of the input and output images is below.
 
 ### CNN 'Dreaming' Over a Mountaintop
-<img src="../assets/mountain_3x.png" width="200" height="200">
+<img src="../assets/mountain_3x.png" width="220" height="220">
 ![mdream](../assets/mountain_dream.png)
 
