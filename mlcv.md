@@ -20,7 +20,7 @@ Each project consists of implementing a new architecture, then using it to analy
 
 ## [Project 2: Multilayer Perceptron Networks & The Softmax Layer](https://github.com/benjiaa/benjiaa-neural-networks/tree/main/project2)
 In this project, we moved on to implementing a Multilayer Perceptron Network (MLP). The key difference here is the additional hidden layers of neurons between the input and output layers. These more complicated connections allow for the neural network to learn more complex patterns. For example, a single-layer network can only learn linear functions, but a multi-layer network is not bound by this restriction. This is demonstrated with the classic benchmark circle-in-square dataset in the project. 
-Another key concept learned in this project is a grid search. Because neural networks can be run with different hyperparameters, it can often be difficult to find best combination of these parameters to minimize training loss. In this project, we were encouraged to explore how performing a grid search can have an impact on performance by attempting to classify the images in the (STL-10 dataset.)[https://www.tensorflow.org/datasets/catalog/stl10], a well-known image classification data with common photos of various objects. Unfortunately, we only achieved an accuracy of ~30% on the test dataset even after grid searching. (As an extension, I parallelized the grid search process, reducing runtime by a factor of ten!) Visualizations of what the neural net believed each class to “look like”, approximately, are pictured below:
+Another key concept learned in this project is a grid search. Because neural networks can be run with different hyperparameters, it can often be difficult to find best combination of these parameters to minimize training loss. In this project, we were encouraged to explore how performing a grid search can have an impact on performance by attempting to classify the images in the [STL-10 dataset](https://www.tensorflow.org/datasets/catalog/stl10), a well-known image classification data with common photos of various objects. Unfortunately, we only achieved an accuracy of ~30% on the test dataset even after grid searching. (As an extension, I parallelized the grid search process, reducing runtime by a factor of ten!) Visualizations of what the neural net believed each class to “look like”, approximately, are pictured below:
 
 ### Class Visualizations
 ![class_vis](../assets/class_vis.png)
@@ -39,6 +39,6 @@ After the arduous process of the by-hand implementation of the CNN, we were able
 Finally, after manually implementing these networks, we learned to use high-level Tensorflow functions to build a CNN and attempt classification on a new dataset. Next, utilizing transfer learning, we used a pre-trained neural network (VGG16) to project the receptive fields of specific filters from convolution and and create trippy “dream” effects.  An example of the input and output images is below.
 
 ### CNN 'Dreaming' Over a Mountaintop
-![mnormal](../assets/mountain_3x.png)
-![mnormal](../assets/mountain_dream.png)
+<img src="../assets/mountain_3x.png" width="231" height="231">
+![mdream](../assets/mountain_dream.png)
 
