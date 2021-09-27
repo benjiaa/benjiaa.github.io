@@ -10,7 +10,7 @@ permalink: /insite/
 
 
 
-## The poster I presented at the Colby Undergraduate Summer Research Retreat. [Click here](https://benjiaa.github.io/assets/poster.png) for full-size image.
+### The poster I presented at the Colby Undergraduate Summer Research Retreat. [Click here](https://benjiaa.github.io/assets/poster.png) for full-size image.
 
 This Summer, I was a research assistant for Professor Stacy A. Doore working on the INSITE Lab’s CyberlearningNLP Project. Personally, I was working on developing an automated accessible STEM image transcription system powered by computer vision and machine learning. This task involves finding a sufficient dataset of chart images to train artificial neural networks on, which is why the International Conference on Pattern Recognition (ICPR 2020) Image Transcription Dataset was chosen for training. This dataset consists of images extracted from open-access publications in the PubMedCentral that have been classified and summarized with descriptions. A subset of this dataset consisting solely of line graphs, bar graphs, pie charts, venn diagrams, and scatter plots was selected for training and testing. This system will consist of four steps: classification, text detection and recognition, text role classification and axis/legend analysis, and NL image description.
 
